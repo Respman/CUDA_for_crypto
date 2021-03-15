@@ -1,0 +1,18 @@
+открываем файл: ../keys/file0.txt
+[+] закончили с файлом ../keys/file0.txt
+открываем файл: ../keys/file1.txt
+[+] подходящий ключ: djnvqb
+
+[+] закончили с файлом ../keys/file1.txt
+открываем файл: ../keys/file2.txt
+[+] закончили с файлом ../keys/file2.txt
+открываем файл: ../keys/file3.txt
+[+] закончили с файлом ../keys/file3.txt
+открываем файл: ../keys/file4.txt
+[+] закончили с файлом ../keys/file4.txt
+открываем файл: ../keys/file5.txt
+[+] закончили с файлом ../keys/file5.txt
+открываем файл: ../keys/file6.txt
+[+] закончили с файлом ../keys/file6.txt
+открываем файл: ../keys/file7.txt
+[+] закончили с файлом ../keys/file7.txt
